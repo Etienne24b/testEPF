@@ -18,6 +18,7 @@ public class Exo1 {
         Scanner sc;
         sc = new Scanner(System.in);
         System.out.println("Bonjour, quel est votre prenom ?");
+        System.out.println("bonjour");
         prenom = sc.nextLine();  
         System.out.println("Au revoir "+ prenom);
     }
